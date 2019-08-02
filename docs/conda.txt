@@ -1,8 +1,8 @@
 python>=3.6
 cdsapi
 cvxopt
-dask>=1.0,<2.0
-dask-jobqueue>=0.3,<1.0
+dask==1.2.0
+dask-jobqueue==0.4.1
 ecCodes
 h5py
 lxml
